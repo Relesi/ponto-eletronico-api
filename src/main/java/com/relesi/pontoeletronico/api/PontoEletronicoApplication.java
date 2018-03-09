@@ -1,4 +1,10 @@
-package com.relesi.pontoeletronico.api;
+
+
+package src.main.java.com.relesi.pontoeletronico.api;
+
+
+
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
