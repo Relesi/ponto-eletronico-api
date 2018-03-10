@@ -1,6 +1,6 @@
 
 
-package src.main.java.com.relesi.pontoeletronico.api;
+package com.relesi.pontoeletronico.api;
 
 
 
