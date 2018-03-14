@@ -52,6 +52,7 @@ public class FuncionarioRepositoryTest {
     }
 
     private void assertEquals(String email, String email1) {
+
     }
 
     @Test
