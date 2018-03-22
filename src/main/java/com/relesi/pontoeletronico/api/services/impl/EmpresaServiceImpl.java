@@ -1,4 +1,6 @@
-package com.kazale.pontointeligente.api.services.impl;
+package com.relesi.pontoeletronico.api.services.impl;
+
+
 
 import com.relesi.pontoeletronico.api.entities.Empresa;
 import com.relesi.pontoeletronico.api.repositories.EmpresaRepository;
