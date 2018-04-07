@@ -1,4 +1,4 @@
-package com.relesi.pontointeligente.api.security.config;
+package com.relesi.pontoeletronico.api.security.config;
 
 import com.relesi.pontoeletronico.api.security.filters.JwtAuthenticationTokenFilter;
 import org.springframework.beans.factory.annotation.Autowired;
